@@ -1,0 +1,35 @@
+body{
+    align-content: center;
+    justify-content: space-between;
+}
+h1{
+    margin: 25px;
+    text-align: center;
+    color: brown;
+    text-align: center;
+}
+h2{
+    margin: 25px;
+    text-align: center;
+    color: crimson;
+    text-align: center;
+}
+p{
+    margin: 25px;
+    text-align: center;
+}
+img{
+    margin: 20px 400px;
+    height: 300px;
+    width: auto;
+    justify-content: space-between;
+}
+a{
+    margin: 20px;
+    padding: 10px;
+    background-color: cyan;
+}
+div{
+    margin: 20px 45px;
+    justify-content: center;
+}
